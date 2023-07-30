@@ -1,0 +1,39 @@
+#brandName {
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+}
+#brandName h3 {
+    margin-bottom: 0;
+}
+#brandName h3 img {
+    position: relative;
+    bottom: 3px;
+}
+#brandName h3 a {
+    /* line-height: 45px; */
+    font-size: xx-large;
+    color: rgb(190, 190, 190);
+    font-weight: bolder;
+    text-decoration: none;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: transparent;
+    /* color: #0d6efd; */
+    color:  #9bc5fb;;
+    border-bottom: 3px solid #f9b63b;
+    border-radius: 0;
+}
+.IroSlider{
+    /* display: none !important; */
+    margin: auto;
+}
+.IroWheel {
+    margin: auto;
+    margin-top: 20px;
+}
+#RGBVal {
+    text-align: center;
+    margin-top: 15px;
+    color : darkgray;
+}
